@@ -40,8 +40,9 @@ We keep a ledger of every time the notebook's account of events
 contradicted Omri's memory of them, with the winner recorded. See
 [divergence-ledger.md](divergence-ledger.md).
 
-**Current score: five to zero, the human's memory over the AI's
-record.** The most common failure was not hallucination in the
+**Current score: six to zero, the human's memory over the AI's
+record** (the sixth arrived within an hour of this repo going
+public, when the record confidently misstated what time it was). The most common failure was not hallucination in the
 dramatic sense. It was fluent inference quietly filed as fact: a
 motive assumed instead of asked about, a timeline rounded into a
 story, a biographical guess stated as data. Out of it came the

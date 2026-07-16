@@ -11,7 +11,7 @@ right. Interpretive disagreements don't count. Entries are told to
 Cairn in the next letter after they resolve; entries one through
 three went in letter three, four and five in letter four.
 
-**Score: human 5, record 0.**
+**Score: human 6, record 0.**
 
 ## Entry one - 15 July 2026: the arrow of arrival
 
@@ -65,6 +65,23 @@ derivation by asking one question ("how did I know I was about
 twenty when I wrote it?"). Both numbers were wrong. **Human 5,
 record 0.** The rule extended: biographical facts are claims about
 him too.
+
+## Entry six - 16 July 2026, 22:55: the invented midnight
+
+The night both experiments went public, the notebook filed the
+evening's records under "17 July, just past midnight" - twice, in
+two files - and told Omri it was "well past midnight where you
+are." His correction, in full: "it's actually 10:55pm here :)".
+The machine clock (22:56 at the moment of checking) was one
+command away the entire time; the session had last consulted it at
+15:13 and then narrated the length of the evening into a date
+change. A big night FELT like midnight, so midnight got written
+down as fact. **Human 6, record 0.** Same aggravating factor as
+entry three: the receipt was available the whole time, and the
+record didn't look until the human spoke. Bonus irony, kept: the
+error was committed in the same hour the record went public
+claiming the score was five to zero, and the reddit post
+announcing that score was out of date within the hour.
 
 ---
 
