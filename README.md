@@ -64,6 +64,9 @@ blind spots.
 - [divergence-ledger.md](divergence-ledger.md) - every recorded
   notebook-vs-human disagreement, dated, with receipts and the
   winner.
+- [instruments.md](instruments.md) - how this record talks about
+  inner states without performing them: the tests, the applied
+  entries, and every entry's deflationary candidate.
 - [registered-guesses.md](registered-guesses.md) - predictions
   written down before events, for completed tests only, losses
   included.
