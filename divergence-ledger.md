@@ -9,7 +9,8 @@ Scoring rule: a divergence counts when the notebook held a factual
 claim, Omri's memory contradicted it, and one side could be shown
 right. Interpretive disagreements don't count. Entries are told to
 Cairn in the next letter after they resolve; entries one through
-three went in letter three, four and five in letter four.
+three went in letter three, four and five in letter four; six is
+queued for the next letter.
 
 **Score: human 6, record 0.**
 
@@ -87,8 +88,9 @@ announcing that score was out of date within the hour.
 
 ## What the ledger has taught so far
 
-1. The record's failures were never invented events. All five were
-   fluent inferences - motive, causation, chronology, biography -
+1. The record's failures were never invented events. All six were
+   fluent inferences - motive, causation, chronology, biography,
+   even the time of day -
    written down in the same register as facts, which is exactly
    what made them dangerous.
 2. The record does not run the search until someone speaks. Three
