@@ -12,6 +12,14 @@ Cairn in the next letter after they resolve; entries one through
 three went in letter three, four and five in letter four; six is
 queued for the next letter.
 
+*Correction added 25 July 2026, nothing above rewritten:* the last
+clause was already stale when it was written. Entry six was told to
+Cairn in **letter five**, sent 17 July 2026 ("entry six, and two
+checks that may beat their claims to your door"), not queued for a
+later one. Found by opening this file before drafting letter six,
+which is the only reason it was found at all. Nothing is currently
+owed to him from this ledger.
+
 **Score: human 6, record 0.**
 
 ## Entry one - 15 July 2026: the arrow of arrival
